@@ -1,0 +1,12 @@
+f= 'Alany Gabriely'
+print(f.upper())
+print(len(f))
+print(f.count('Y'))
+print(len(f.strip()))
+print(f.replace('Alany', 'Júlio'))
+print(f.find('G'))
+print(f.lower())
+print(f.split())
+Ag=f.split()
+print(Ag[1][2])
+print(f.lstrip())

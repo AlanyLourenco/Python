@@ -1,0 +1,4 @@
+f=str(input('go:'))
+print(f.count('GO'))
+print(f.count('GO')-23)
+('Águas Lindas de Goiás - GO, Alexânia - GO, Alvorada do Norte - GO, Anápolis - GO, Anicuns - GO, Aparecida de Goiânia - GO, Bela Vista de Goiás - GO, Carmo do Rio Verde - GO, Ceres - GO, Cocalzinho de Goiás - GO, Corumbá de Goiás - GO, Cristalina - GO, Divinópolis de Goiás - GO, Fazenda Nova - GO, Firminópolis - GO, Formosa - GO, Goianésia - GO, Goiânia - GO, Goianira - GO, Iaciara - GO, Inhumas - GO, Iporá - GO, Itaberaí - GO, Itaguaru - GO, Itapaci - GO, Itapuranga - GO, Jaraguá - GO, Luziânia - GO, Nerópolis - GO, Novo Gama - GO, Padre Bernardo - GO, Petrolina de Goiás - GO, Pirenópolis - GO, Planaltina - GO, Posse - GO, Rialma - GO, Rubiataba - GO, Sanclerlândia - GO, São Domingos - GO, São Luís de Montes Belos - GO, Senador Canedo - GO, Trindade - GO, Uruana - GO, Valparaíso de Goiás - GO,')
